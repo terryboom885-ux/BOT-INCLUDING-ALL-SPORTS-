@@ -1,0 +1,28 @@
+# 🔥 Elite Sports AI Betting Bot  
+A powerful Streamlit app that predicts **winners, spreads, and totals** for:
+
+- 🏀 NBA  
+- 🏈 NFL  
+- 🏒 NHL  
+- ⚾ MLB  
+- 🏈 NCAAF  
+- 🏀 NCAAB (Men’s & Women’s)
+
+The bot uses:
+
+- Monte Carlo simulations  
+- Power rating models  
+- Ensemble ML models (Random Forest, Logistic Regression, LightGBM)  
+- Market filters  
+- Confidence scoring  
+- Top 5 picks per sport  
+- Automatic refresh features  
+
+---
+
+## 🚀 Run the App Locally
+
+### **Step 1 — Clone the Repo**
+```bash
+git clone https://github.com/yourusername/elite-sports-ai.git
+cd elite-sports-ai

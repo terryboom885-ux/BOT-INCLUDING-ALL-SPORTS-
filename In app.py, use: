@@ -1,0 +1,7 @@
+import streamlit as st
+
+# If using secrets on Streamlit
+api_key = st.secrets["odds_api"]["key"]
+
+# Example usage
+print("My API key is ready:", api_key)
